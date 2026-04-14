@@ -55,5 +55,18 @@
  3. Ela vai digitar uma `senha`<br>
  4. E logo após fazer tudo isso vai clicar em `entrar`<br>
 
+-----------
 
 **Teste do movimento de entrega**
+
+1. O pedido é confirmado 
+2. Logo após isso o pediso é preparado 
+3. Assim que pronto o pedido vai para a entrega 
+4. O entregador realiza a entrega para o usuário
+5. Assim que entregue o pedido é finalizado
+
+------------
+
+**RESULTATO ESPERADO**
+
+O pedido aparece como `Entregue` no sistema
