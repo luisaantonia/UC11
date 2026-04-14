@@ -46,6 +46,14 @@
 
 -----------
 
+# TESTES 
+
 **Teste do cadastro de usuário**
+
+ 1. A pessoa vai fazer um `login`<br>
+ 2. Vai digitar um nome de `usuário`<br>
+ 3. Ela vai digitar uma `senha`<br>
+ 4. E logo após fazer tudo isso vai clicar em `entrar`<br>
+
 
 **Teste do movimento de entrega**
